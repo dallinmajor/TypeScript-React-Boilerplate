@@ -5,7 +5,7 @@ const App: React.FC<{}> = ({}) => {
     document.title = "Hello World";
     return (
         <div className="app">
-        Hello World
+        Hello World!
     </div>
     )
 };
