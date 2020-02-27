@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "alwaysStrict": false,
+        "noImplicitReturns": true,
+        "noImplicitThis": false,
+        "pretty": true,
+        "removeComments": true,
+        "jsx": "react",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "target": "es5"
+    },
+    "files":["./gulpfile.ts"],
+    "exclude": [
+        "node_modules"
+    ]
+}
