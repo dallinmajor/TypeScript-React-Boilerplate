@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "concurrently \"gulp default:watch\" \"npm run start\"",
+    "build": "gulp default",
     "start": "index.html",
     "gulp:watch": "gulp default:watch"
   },
